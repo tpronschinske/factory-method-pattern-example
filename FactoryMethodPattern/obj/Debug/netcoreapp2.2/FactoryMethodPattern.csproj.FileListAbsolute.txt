@@ -1,0 +1,11 @@
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.2\FactoryMethodPattern.deps.json
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.2\FactoryMethodPattern.runtimeconfig.json
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.2\FactoryMethodPattern.runtimeconfig.dev.json
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.2\FactoryMethodPattern.dll
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\netcoreapp2.2\FactoryMethodPattern.pdb
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.2\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.2\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.2\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.2\FactoryMethodPattern.dll
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.2\FactoryMethodPattern.pdb
+C:\Users\tpronschinske\Desktop\Personal\FactoryMethodPattern\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\netcoreapp2.2\FactoryMethodPattern.csprojAssemblyReference.cache
